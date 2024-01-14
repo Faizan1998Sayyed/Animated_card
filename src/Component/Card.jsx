@@ -12,7 +12,7 @@ export default function Card() {
         </div>
         <div className='contant'>
           <div className='details'>
-          <h2>Faisu Sayyed<br/><span>Senior UI/UX Designer</span></h2>
+          <h2>Faisu Sayyed<br/><span>web Developer</span></h2>
             <div className='data'>
               <h3>345<br/><span>Posts</span></h3>
               <h3>4456k<br/><span>Followers</span></h3>
